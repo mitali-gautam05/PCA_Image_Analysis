@@ -130,6 +130,3 @@ This project demonstrates how dimensionality reduction techniques behave differe
 - Build interactive visualization (Streamlit)
 - Apply deep learning-based dimensionality reduction (Autoencoders)
 
----
-
-## ⭐ If you found this useful, feel free to star the repo!
